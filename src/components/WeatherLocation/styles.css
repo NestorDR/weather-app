@@ -1,0 +1,33 @@
+.locationCont {
+    width: 100%;
+    height: 35px;
+    text-align: left;
+    color: darkslateblue;
+    line-height: 35px;
+    /* overflow: hidden; */
+}
+.locationCont h1 {
+    margin: 0;
+    white-space: nowrap;
+}
+.weatherLocationCont {
+    /* 
+        box-sizing: border-box; 
+        Para cambiar la forma de cálculo del tamaño del componente y 
+        así funcionará el calc() siguiente 
+        
+        The box-sizing property allows us to include the padding and border in an
+        element's total width and height.
+
+        If you set box-sizing: border-box; on an element padding and border are included
+         in the width and height:
+    */
+    box-sizing: border-box;
+    width: calc(100% - 20px);
+    margin: 0 0 10px 10px;
+    min-width: 350px;
+    padding: 25px;
+    font-family: Roboto, sans-serif;
+    box-shadow: 10px 10px 40px -12px rgba(0, 0, 0, 0.75) ;
+    cursor: pointer;
+}
