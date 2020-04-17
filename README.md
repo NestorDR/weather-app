@@ -3,6 +3,8 @@
 This project is my implemntation of a part of the course [React JS + Redux + ES6. Completo ¡De 0 a experto! (español)](https://www.udemy.com/course/react-js-redux-es6-completo-de-0-a-experto-espanol).
 Created by @correooke (Engineer Emiliano Ocariz)
 
+The project is not exactly the same as the one developed during the course. It has bit differences, for example it makes use of Hooks. And it's highly commented.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
