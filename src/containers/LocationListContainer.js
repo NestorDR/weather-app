@@ -69,8 +69,8 @@ const mapStateToProps = state => ({
 /*
   mapDispatchToProps retorna un objeto con funciones agregadas al parámetro props de la función conectada,
     en este caso LocationListContainer
-  esas funciones van a llamar al dispatch que llega como input param de mapDispatchToProps
-  // es decir, dispatch viene como parámetro para que se usen dentro de las funciones
+  Esas funciones van a llamar al dispatch que debe llegar como input param de mapDispatchToProps (es decir,
+    dispatch debiera venir como parámetro para que se usen dentro de las funciones).
 */
 /*
   Propiedad setSelectedCityInStore es una función que ejecuta store.dispatch para actualizar store de redux
