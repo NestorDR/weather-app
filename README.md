@@ -8,7 +8,7 @@ The project is not exactly the same as the one developed during the course. It h
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshot
-![Learning DJango - Screenshot](/assets/screenshot.png "Learning DJango - Screenshot")
+![WethearApp - Screenshot](/assets/screenshot.png "Wethear App - Screenshot")
 
 ## Available Scripts
 
